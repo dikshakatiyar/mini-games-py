@@ -43,4 +43,5 @@ def main():
         bet=get_bet()
         
         print(f"Your balance is Rs.{balance}.")
+
 main()
